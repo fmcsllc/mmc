@@ -7,5 +7,5 @@ img: easter.jpg # Add image post (optional)
 tags: [cookies, tray] # add tag
 ---
 
-### Send email for custom order cookie trays or other special requests.
+### Send email for custom order cookie trays or other special requests..
 
