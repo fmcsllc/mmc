@@ -9,4 +9,4 @@ Best Irish Patatoes
 
 ![St Patty's Day]({{site.baseurl}}/assets/img/irishPatatos1.jpg)
 
-### Send email for more information
+### Send email for more information.
